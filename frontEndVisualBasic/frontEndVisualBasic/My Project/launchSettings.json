@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "frontEndVisualBasic": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Ajeitando Seu Lado\\Desktop\\GITHUB\\visualBasic\\visalBasic\\frontEndVisualBasic\\frontEndVisualBasic"
+    },
+    "cadastro": {
+      "commandName": "Project",
+      "commandLineArgs": "c"
+    }
+  }
+}
